@@ -1,0 +1,146 @@
+/* .container {
+    width: 100%;
+    padding: 50px;
+    height: 100%;
+    background-color: aqua;
+    justify-content: center;
+    align-items: center;
+   
+} */
+body {
+    height: 620px;
+    border: 2px solid gold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container {
+    background-color: rgb(27, 12, 24) ;
+    padding-top: 30px;
+   
+    width: 50%;
+    box-sizing: border-box;
+}
+input:hover {
+    box-shadow:1px 1px 5px 4px violet;
+}
+.contain {
+    width: 300px;
+    color: white;
+    margin-left: 150px ;
+    box-shadow:1px 1px 5px 2px white;
+    height: 500px;
+    background-color:rgb(19, 2, 15 );
+    border: 3px solid white;
+    border-radius: 4px;
+    padding: 0px 10px 30px 20px;
+    font-size: 20px;
+   
+}
+
+#one {
+    width:250px ;
+    height: 34px;
+    background-color: rgb(231, 205, 225);
+    margin: 10px 0px ;
+    border: 2px solid rgb(255, 7, 255);
+    border-radius: 4px ;
+}
+
+button:hover {
+    box-shadow:1px 1px 5px 4px violet;
+    
+}
+.one {
+    text-align: center;
+    margin: 30px;
+}
+p {
+    font-size: 15px;
+}
+span {
+    font-size: 17px;
+    padding-left: 7px;
+    color: violet;
+}
+a {
+    text-decoration: none;
+}
+button {
+    text-align: center;
+    width: 260px;
+    height: 36px;
+    margin-top: 25px;
+    color: white;
+    font-size: 15px;
+    border: 2px solid rgb(212, 21, 212);
+    background-color: rgb(212, 21, 212);
+    border-radius: 4px;
+}
+/* @media  screen(width:768px) {
+    body {
+        display: block;
+    }
+} */
+#the {
+    float: right;
+    background-color: rgb(105, 91, 91);
+    width: 50%;
+    height: 100%;
+    padding-top: 20px;
+}
+body {
+    display: flex;
+}
+
+.we {
+    width: 300px;
+    color:black;
+    margin-left: 150px ;
+    box-shadow:1px 1px 5px 2px white;
+    height: 550px;
+    background-color:rgb(250, 250, 250);
+    border-radius: 4px;
+    padding: 15px ;
+    font-size: 20px;
+   
+}
+.go {
+    width: 92%;
+    border-radius: 5px;
+    /* border: 2px solid blue; */
+    height: 70px;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+.lol {
+        width: 100%px;
+        border-radius: 5px;
+        /* border: 2px solid blue; */
+        height: 400;
+        padding: 8px;
+        margin-bottom: 10px;
+    
+}
+.vet {
+    margin-top: 10px;
+}
+.you {
+    width: 70px;
+    margin-right: 5px ;
+}
+input {
+    background-color: white;
+    height: 35px;
+    border-radius: 5px;
+    width: 270px;
+}
+.dom {
+    width: 95%;
+    height: 260px;
+    border-radius: 5px;
+    /* border: 2px solid blue; */
+    padding: 5px;
+    margin-bottom: 5px;
+}
+.for {
+    margin-bottom: 8px;
+}
